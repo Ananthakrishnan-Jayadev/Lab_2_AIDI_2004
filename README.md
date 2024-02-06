@@ -5,19 +5,15 @@ This repository contains code for a breast cancer classification model using Sup
 Instructions
 Clone Repository:
 
-bash
 git clone https://github.com/your-username/breast-cancer-classification.git
 cd breast-cancer-classification
 Install Dependencies:
-
-bash
 pip install -r requirements.txt
+import data:
+change the file location to your preferred path
 Run the Code:
-
-bash
-python breast_cancer_classification.py
+AIDI_2004_Lab_2_file_1.ipynb
 Explore Results:
-
 View the accuracy and classification report in the console.
 Check the generated plots in the 'plots' directory.
 Project Structure
